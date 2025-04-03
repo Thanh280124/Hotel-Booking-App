@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "http://localhost:5000"
+  return "https://hotel-booking-app-backend-km4k.onrender.com"
 }
 
 export default getBaseUrl;
