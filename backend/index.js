@@ -8,7 +8,7 @@ dotenv.config()
 
 app.use(express.json());
 app.use(cors({
-  origin:['https://hotel-booking-app-frontend-i2ng.onrender.com/'],
+  origin:['https://hotel-booking-app-frontend-i2ng.onrender.com'],
   credentials:true,
 }))
 
